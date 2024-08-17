@@ -13,6 +13,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        galf=infrastructure.entrypoints.cli.cli:cli
+        galf=cli.cli:cli
     ''',
 )

@@ -1,8 +1,10 @@
 import click
+from dotenv import load_dotenv
 
 @click.group()
 def cli():
     """Priority Support CLI."""
+    load_dotenv()
     pass
 
 @cli.command()
