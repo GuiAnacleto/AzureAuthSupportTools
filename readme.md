@@ -18,21 +18,14 @@ Antes de executar o projeto, certifique-se de atender aos seguintes pré-requisi
 
 Para instalar as dependências do projeto, execute o comando abaixo:
 
-bash
-
-Copiar código
-
-`pip install -r requirements.txt` 
+```pip install -r requirements.txt```
 
 ## Execução
 
 Para rodar o projeto e iniciar a autenticação no Azure AD, execute o seguinte comando:
 
-bash
+```python main.py```
 
-Copiar código
-
-`python main.py` 
 
 ## Funcionamento
 
