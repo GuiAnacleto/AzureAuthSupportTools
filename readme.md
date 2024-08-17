@@ -17,12 +17,12 @@ Spike de exploração de atenticar usuarios de maneira interativa a partir de um
 ```bash python main.py```
 
 ## Demonstração
-![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/print1.jpg?raw=true)
+![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/images/print1.jpg?raw=true)
 
-![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/print2.jpg?raw=true)
+![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/images/print2.jpg?raw=true)
 
-![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/print3.jpg?raw=true)
+![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/images/print3.jpg?raw=true)
 
-![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/print4.jpg?raw=true)
+![image](https://github.com/tuyoshivinicius/spike-azure-ad-login-with-python-cli/blob/main/images/print4.jpg?raw=true)
 
 
